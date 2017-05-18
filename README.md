@@ -11,7 +11,6 @@
 |data.menu.hasChild| 菜单是否可以展开 |布尔|
 |data.menu.id| 菜单ID |整形|
 |data.menu.open| 菜单是否默认展开（展开将会立即发起下一次请求） |布尔|
-
 ###数据示例
 ``` json
 {
